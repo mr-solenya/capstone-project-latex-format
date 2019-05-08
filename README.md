@@ -25,4 +25,4 @@ IF YOU DONOT KNOW HOW TO USE LATEX AND THIS IS YOUR FIRST TIME USING IT. THIS WI
 3. Add the following user commands:-
 - user0:Make Nomenclature  ->  makeindex -s nomencl.ist -t %.nlg -o %.nls %.nlo
 - user1:Make Glossaries    ->   makeindex thesis.glo -s thesis.ist -t thesis.glg -o thesis.gls
-4. Run makeindex once before running the texfile
+4. Run makeindex once before running the texfile (which is done by clicking on 'index' in the 'Tools' menu in TexStudio)
