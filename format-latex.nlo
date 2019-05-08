@@ -1,0 +1,12 @@
+\nomenclatureentry{aRpi@[{Rpi}]\begingroup Raspberry Pi\nomeqref {0}|nompageref}{viii}
+\nomenclatureentry{aFig@[{Fig}]\begingroup Figure\nomeqref {0}|nompageref}{viii}
+\nomenclatureentry{apu@[{pu}]\begingroup per unit value = real value / base value\nomeqref {0}|nompageref}{viii}
+\nomenclatureentry{aNVSI@[{NVSI}]\begingroup New Voltage Stability Index \cite{nvsi}\nomeqref {0}|nompageref}{viii}
+\nomenclatureentry{aTCP@[{TCP}]\begingroup Transmission Control Protocol\nomeqref {0}|nompageref}{viii}
+\nomenclatureentry{aIP@[{IP}]\begingroup Internet Protocol\nomeqref {0}|nompageref}{viii}
+\nomenclatureentry{aJS@[{JS}]\begingroup Java Script\nomeqref {0}|nompageref}{viii}
+\nomenclatureentry{aHTML@[{HTML}]\begingroup Hyper Text Markup Language\nomeqref {0}|nompageref}{viii}
+\nomenclatureentry{aCSS@[{CSS}]\begingroup Cascading Style Sheets\nomeqref {0}|nompageref}{viii}
+\nomenclatureentry{aJSON@[{JSON}]\begingroup JavaScript Object Notation\nomeqref {0}|nompageref}{viii}
+\nomenclatureentry{aGPIO@[{GPIO}]\begingroup General Purpose Input/ Output\nomeqref {0}|nompageref}{viii}
+\nomenclatureentry{aCDN@[{CDN}]\begingroup Content Delivery Network \cite{cdn_ref}\nomeqref {0}|nompageref}{viii}
